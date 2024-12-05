@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <array name="config_autoBrightnessDisplayValuesNits" />
+   <integer-array name="config_autoBrightnessLevels">
+        <item>1</item>
+        <item>5</item>
+        <item>6</item>
+        <item>50</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1500</item>
+        <item>3000</item>
+        <item>4999</item>
+        <item>5000</item>
+        <item>19999</item>
+        <item>20000</item>
+    </integer-array>
+    <array name="config_screenBrightnessBacklight" />
+    <array name="config_screenBrightnessNits" />
+    <integer-array name="config_availableColorModes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+    <bool name="config_showNavigationBar">true</bool>
+    <bool name="config_supportAudioSourceUnprocessed">false</bool>
+    <bool name="config_carrier_volte_available">true</bool>
+    <bool name="config_device_volte_available">true</bool>
+    <bool name="config_hotswapCapable">false</bool>
+    <bool name="config_setColorTransformAccelerated">true</bool>
+    <bool name="config_useDevInputEventForAudioJack">false</bool>
+    <bool name="config_enableBurnInProtection">true</bool>
+    <bool name="config_automatic_brightness_available">true</bool>
+	<item type="dimen" name="config_screenBrightnessSettingDefaultFloat">-2.0</item>
+    <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">-2.0</item>
+    <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">-2.0</item>
+    <dimen name="status_bar_height_portrait">24.0dip</dimen>
+    <integer name="config_defaultRefreshRate">0</integer>
+    <integer name="config_defaultPeakRefreshRate">120</integer>
+    <integer name="config_burnInProtectionMaxRadius">100</integer>
+    <integer name="config_burnInProtectionMinHorizontalOffset">-50</integer>
+    <integer name="config_burnInProtectionMaxHorizontalOffset">50</integer>
+    <integer name="config_burnInProtectionMinVerticalOffset">-70</integer>
+    <integer name="config_burnInProtectionMaxVerticalOffset">70</integer>
+   <string name="config_mainBuiltInDisplayCutout" />
+</resources>
