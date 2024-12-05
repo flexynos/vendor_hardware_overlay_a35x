@@ -1,3 +1,3 @@
 PRODUCT_PACKAGES += \
-	treble-overlay-samsung-a54x \
-	treble-overlay-samsung-a54x-systemui \
+	treble-overlay-samsung-a35x \
+	treble-overlay-samsung-a35x-systemui \
