@@ -2,7 +2,7 @@
 <resources>
     <dimen name="status_bar_padding_start">40px</dimen>
     <dimen name="status_bar_padding_top">34px</dimen>
-    <dimen name="physical_power_button_center_screen_location_y">940.0px</dimen>
+    <dimen name="physical_power_button_center_screen_location_y">920.0px</dimen>
     <dimen name="rounded_corner_radius_bottom">50.0dip</dimen>
     <dimen name="rounded_corner_radius_top">50.0dip</dimen>
     <dimen name="status_bar_height_portrait">6.779999mm</dimen>
